@@ -8,8 +8,8 @@
 课程
 -------
 
-* [01 - Lesson](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/01%20-%20Lesson.ipynb)
-* [02 - Lesson]()
+* [01 - Lesson](http://nbviewer.ipython.org/github/hello-kukoo/learn-pandas-cn/blob/master/cn/lessons/01%20-%20Lesson.ipynb)
+* [02 - Lesson](http://nbviewer.ipython.org/github/hello-kukoo/learn-pandas-cn/blob/master/cn/lessons/02%20-%20Lesson.ipynb)
 * [03 - Lesson]()
 * [04 - Lesson]()
 * [05 - Lesson]()
