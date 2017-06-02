@@ -10,7 +10,7 @@
 
 * [01 - Lesson](http://nbviewer.ipython.org/github/hello-kukoo/learn-pandas-cn/blob/master/cn/lessons/01%20-%20Lesson.ipynb)
 * [02 - Lesson](http://nbviewer.ipython.org/github/hello-kukoo/learn-pandas-cn/blob/master/cn/lessons/02%20-%20Lesson.ipynb)
-* [03 - Lesson]()
+* [03 - Lesson](http://nbviewer.ipython.org/github/hello-kukoo/learn-pandas-cn/blob/master/cn/lessons/03%20-%20Lesson.ipynb)
 * [04 - Lesson]()
 * [05 - Lesson]()
 * [06 - Lesson]()
