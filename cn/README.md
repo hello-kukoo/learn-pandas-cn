@@ -15,10 +15,10 @@
 * [05 - Lesson](http://nbviewer.ipython.org/github/hello-kukoo/learn-pandas-cn/blob/master/cn/lessons/05%20-%20Lesson.ipynb)
 * [06 - Lesson](http://nbviewer.ipython.org/github/hello-kukoo/learn-pandas-cn/blob/master/cn/lessons/06%20-%20Lesson.ipynb)
 * [07 - Lesson](http://nbviewer.ipython.org/github/hello-kukoo/learn-pandas-cn/blob/master/cn/lessons/07%20-%20Lesson.ipynb)
-* [08 - Lesson]()
-* [09 - Lesson]()
-* [10 - Lesson]()
-* [11 - Lesson]()
+* [08 - Lesson](http://nbviewer.ipython.org/github/hello-kukoo/learn-pandas-cn/blob/master/cn/lessons/08%20-%20Lesson.ipynb)
+* [09 - Lesson](http://nbviewer.ipython.org/github/hello-kukoo/learn-pandas-cn/blob/master/cn/lessons/09%20-%20Lesson.ipynb)
+* [10 - Lesson](http://nbviewer.ipython.org/github/hello-kukoo/learn-pandas-cn/blob/master/cn/lessons/10%20-%20Lesson.ipynb)
+* [11 - Lesson](http://nbviewer.ipython.org/github/hello-kukoo/learn-pandas-cn/blob/master/cn/lessons/11%20-%20Lesson.ipynb)
 
 
 Cookbooks
