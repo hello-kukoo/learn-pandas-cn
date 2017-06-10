@@ -21,14 +21,14 @@
 * [11 - Lesson](http://nbviewer.ipython.org/github/hello-kukoo/learn-pandas-cn/blob/master/cn/lessons/11%20-%20Lesson.ipynb)
 
 
-Cookbooks
----------
+Cookbook
+-------
 
-* [Compute](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Cookbook%20-%20Compute.ipynb)
-* [Merge](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Cookbook%20-%20Merge.ipynb)
-* [Select](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Cookbook%20-%20Select.ipynb)
-* [Sort](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Cookbook%20-%20Sort.ipynb)
-* [Python 101](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Python_101.ipynb)
+* [Compute](http://nbviewer.ipython.org/github/hello-kukoo/learn-pandas-cn/blob/master/cn/lessons/Cookbook%20-%20Compute.ipynb)
+* [Merge](http://nbviewer.ipython.org/github/hello-kukoo/learn-pandas-cn/blob/master/cn/lessons/Cookbook%20-%20Merge.ipynb)
+* [Select](http://nbviewer.ipython.org/github/hello-kukoo/learn-pandas-cn/blob/master/cn/lessons/Cookbook%20-%20Select.ipynb)
+* [Sort](http://nbviewer.ipython.org/github/hello-kukoo/learn-pandas-cn/blob/master/cn/lessons/Cookbook%20-%20Sort.ipynb)
+* [Python 101](http://nbviewer.ipython.org/github/hello-kukoo/learn-pandas-cn/blob/master/cn/lessons/Python_101.ipynb)
 
 免费工具
 ---------
