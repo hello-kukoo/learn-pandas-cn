@@ -30,6 +30,8 @@ Cookbook
 * [Sort](http://nbviewer.ipython.org/github/hello-kukoo/learn-pandas-cn/blob/master/cn/lessons/Cookbook%20-%20Sort.ipynb)
 * [Python 101](http://nbviewer.ipython.org/github/hello-kukoo/learn-pandas-cn/blob/master/cn/lessons/Python_101.ipynb)
 
+https://github.com/hello-kukoo/learn-pandas-cn/blob/master/cn/lessons/
+
 免费工具
 ---------
 
